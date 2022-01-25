@@ -6,7 +6,7 @@ namespace Exercises
     {
         public static void Main(string[] args)
         {
-            var program = new interfaces.ExcerciseTwo();
+            var program = new AbstractClasses.ExcerciseEight();
             program.run();
         }
     }
