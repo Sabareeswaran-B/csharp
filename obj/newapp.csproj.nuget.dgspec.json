@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sabareeswaran\\newapp\\newapp.csproj": {}
+    "C:\\csharp\\newapp\\newapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sabareeswaran\\newapp\\newapp.csproj": {
+    "C:\\csharp\\newapp\\newapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sabareeswaran\\newapp\\newapp.csproj",
+        "projectUniqueName": "C:\\csharp\\newapp\\newapp.csproj",
         "projectName": "newapp",
-        "projectPath": "C:\\Users\\Sabareeswaran\\newapp\\newapp.csproj",
+        "projectPath": "C:\\csharp\\newapp\\newapp.csproj",
         "packagesPath": "C:\\Users\\Sabareeswaran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sabareeswaran\\newapp\\obj\\",
+        "outputPath": "C:\\csharp\\newapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sabareeswaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
