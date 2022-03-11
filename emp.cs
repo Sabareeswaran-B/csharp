@@ -21,7 +21,15 @@ namespace EmployeeExample
         {
             return name;
         }
+<<<<<<< HEAD
     //Changed by Tamizharivu
+=======
+
+        //This is the change from Kanishkar
+        //EMP version 1
+        // SALARY v2
+        //This is the change
+>>>>>>> 12735939f776c7ea5bc3570726066299af975093
         public override int getEmpSalary()
         {
             return salary;

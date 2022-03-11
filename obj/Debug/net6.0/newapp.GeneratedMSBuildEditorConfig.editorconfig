@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = newapp
+<<<<<<< HEAD
 build_property.ProjectDir = d:\GitHub\csharp_basics\
+=======
+build_property.ProjectDir = /Users/kanishkar/Desktop/Gitv2/csharp_basics/
+>>>>>>> 12735939f776c7ea5bc3570726066299af975093
