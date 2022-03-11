@@ -14,15 +14,14 @@ namespace EmployeeExample
 
         public Employee(string name, int salary){
             this.name = name;
+
             this.salary = salary;
         }
         public override string getEmpName()
         {
             return name;
         }
-
-        //EMP version 1
-        // SALARY v2
+    //Changed by Tamizharivu
         public override int getEmpSalary()
         {
             return salary;
