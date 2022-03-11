@@ -20,6 +20,8 @@ namespace EmployeeExample
         {
             return name;
         }
+
+        //This is the change
         public override int getEmpSalary()
         {
             return salary;
