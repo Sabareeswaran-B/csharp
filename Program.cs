@@ -8,6 +8,7 @@ namespace Exercises
         {
             var program = new AbstractClasses.ExcerciseThree();
             program.run();
+            Console.WriteLine("Hi");
         }
     }
 }
