@@ -6,7 +6,7 @@ namespace Exercises
     {
         public static void Main(string[] args)
         {
-            var program = new CollectionsEx.QueueExcercise();
+            var program = new AbstractClasses.ExcerciseThree();
             program.run();
         }
     }
