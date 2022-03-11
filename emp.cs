@@ -16,7 +16,7 @@ namespace EmployeeExample
             this.name = name;
             this.salary = salary;
         }
-        // My name is vishnuprashob git
+        // My name is vishnu
         public override string getEmpName()
         {
             return name;
